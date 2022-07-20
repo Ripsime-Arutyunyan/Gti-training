@@ -5,7 +5,12 @@ import superannotate as sa
 from shapely.geometry import Polygon, LinearRing
 import numpy as np
 import shutil
+import tempfile
 
+"""
+WE ARE MESSING HERE TO CHECK HOW MERGING WORKS
+
+"""
 
 #1. Create a folder and paste this script in that folder 
 #2. Open the script and in the project_name within the quotes write the name of your project / close the script
